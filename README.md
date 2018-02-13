@@ -13,5 +13,6 @@ T-Design　2018年版　ウェブサイト開発
 * test.html
 * common.css
 * test
+* test2
 
 ## リリース方法
