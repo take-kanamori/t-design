@@ -12,5 +12,6 @@ T-Design　2018年版　ウェブサイト開発
 ## ファイル構成
 * test.html
 * common.css
+* test
 
 ## リリース方法
